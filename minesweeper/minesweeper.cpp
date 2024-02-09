@@ -8,7 +8,7 @@
 #include <ctype.h>
 #include <cmath>
 
-#define ARR_LENGTH 64 // Game grid size --> must be a perfect square or game will glitch out
+#define ARR_LENGTH 49 // Game grid size --> must be a perfect square or game will glitch out
 
 using namespace std;
 
