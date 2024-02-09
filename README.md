@@ -18,7 +18,7 @@ Compile the source code using these commands for the specific minigames mentione
 
 ### Minesweeper-Minigame
 ```
-  g++ include/utils.cpp minesweeper.cpp -o mswp.exe
+  g++ include/game_source.cpp include/utils.cpp mswp.cpp -o mswp.exe
 ```
 
 ## Execution
